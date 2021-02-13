@@ -1,0 +1,1 @@
+java -jar "C:\Programs\bundletool\bundletool.jar" install-apks --apks=build/app/outputs/release/app.apks

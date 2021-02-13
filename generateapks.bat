@@ -1,0 +1,1 @@
+java -jar "C:\Programs\bundletool\bundletool.jar" build-apks --bundle=build/app/outputs/bundle/release/app-release.aab --output=build/app/outputs/release/app.apks
